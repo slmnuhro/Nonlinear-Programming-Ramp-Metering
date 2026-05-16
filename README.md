@@ -29,8 +29,7 @@ The repository contains MATLAB implementations of the optimization algorithms to
 ## Repository Structure
 
 ```text
-nonlinear-programming-ramp-metering/
-│
+Nonlinear-Programming-Ramp-Metering/
 │
 ├── Code/
 │   ├── bigmac.m
