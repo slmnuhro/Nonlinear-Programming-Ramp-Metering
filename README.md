@@ -42,7 +42,7 @@ Nonlinear-Programming-Ramp-Metering/
 ```
 ---
 
-## Authors
+## Collaborators
 
 - Melis Orhun
 - Sven Rutgers
