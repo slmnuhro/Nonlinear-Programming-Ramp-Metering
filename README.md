@@ -1,6 +1,6 @@
 # Nonlinear Programming Assignment
 
-Final assignment for the course **Optimization for Systems and Control** at TU Delft.
+Final assignment for the course **Optimization for Systems and Control (SC42056)** at TU Delft.
 
 This project investigates freeway congestion control using ramp metering optimization based on the discrete-time macroscopic traffic flow model **METANET**. Different nonlinear optimization approaches are implemented and compared in MATLAB to minimize the Total Time Spent (TTS) of vehicles on a freeway segment.
 
